@@ -1,6 +1,34 @@
-# Steps
-## Criação de API
-#### Inicio do projeto com Node.JS
+# Projeto backend NLW-NODEJS
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Steps</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- NodeJS
+- Typscript
+- Zod
+- Docker
+- PostgreSQL
+- Redis
+- Fastify
+- Prisma
+- HTTP com [HOPPSCOTCH.IO](https://hoppscotch.io/)
+
+## 💻 Projeto
+
+Backend Websocket realtime, projeto criado em Nodejs durante o evendo NLW-NODEJS para backend utilizando banco de dados, containers e Orm para facilitar a integração de tabelas e suas dependencias, alem de muito javascript....
+
+
+---
+
+## 🎲 Steps para criação de API
 
 Para iniciar o projeto em node.js com o arquivo packega.json
 ```bash
@@ -107,3 +135,15 @@ Biblioteca para trabalhar com Websockets
 ```bash
 npm i @fastify/websocket
 ```
+
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---
+
+
+### Author
+Feito com ♥ by Rafael d Silva
